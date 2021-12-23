@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Content",
+    "description": "",
+    "home_page_url": "https://hrachharutyunyan.github.io/content",
+    "feed_url": "https://hrachharutyunyan.github.io/content/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "NotFilmmaker"
+    },
+    "items": [
+        {
+            "id": "https://hrachharutyunyan.github.io/content/adobe-premiere-pro.html",
+            "url": "https://hrachharutyunyan.github.io/content/adobe-premiere-pro.html",
+            "title": "Adobe Premiere Pro",
+            "summary": "Adobe Premiere Pro-ն պրոֆեսիոնալ ծրագիր է վիդեոմոնտաժի համար։ Այն նախատեսված է տեսանյութերը փոփոխելու և մշակելու համար։ Ծրագիրը հնարավորություն է տալիս տեսանյութերը սորտավորելու , կտրելու , միացնելու , անցումներ ավելացնելու , գույները փոփոխելու , էֆեկտներ ու ձայներ ավելացնելու և բազմաթիվ այլ փոփոխություներ անելու։ Կարող ես ձեռք&hellip;",
+            "content_html": "<p><strong>Adobe Premiere Pro</strong>-ն պրոֆեսիոնալ ծրագիր է վիդեոմոնտաժի համար։</p>\n<p>Այն նախատեսված է տեսանյութերը փոփոխելու և մշակելու համար։ Ծրագիրը հնարավորություն է տալիս տեսանյութերը սորտավորելու , կտրելու , միացնելու , անցումներ ավելացնելու , գույները փոփոխելու , էֆեկտներ ու ձայներ ավելացնելու և բազմաթիվ այլ փոփոխություներ անելու։</p>\n<p>Կարող ես ձեռք բերել պաշտոնական կայքից` <a href=\"https://www.adobe.com/products/premiere.html\" target=\"_blank\" rel=\"noopener noreferrer\">Download</a></p>\n<p>Կարող ես դառնալ ծովահեն </p>",
+            "image": "https://hrachharutyunyan.github.io/content/media/posts/1/Adobe_Premiere_Pro_CC_icon.svg",
+            "author": {
+                "name": "NotFilmmaker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-23T12:13:34+04:00",
+            "date_modified": "2021-12-23T13:41:03+04:00"
+        }
+    ]
+}
